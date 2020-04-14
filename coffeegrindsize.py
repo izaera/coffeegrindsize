@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 #Import the required packages
 from tkinter import filedialog
 from tkinter import *
